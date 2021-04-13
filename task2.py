@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 
-window = tk.TK()
+window = tk.Tk()
 window.title("T-Town Veterinary Clinc Database")
 
 button1 = tk.Button(window, text="search by name")
